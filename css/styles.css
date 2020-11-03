@@ -69,3 +69,9 @@ main > .tagline {
 	width: 2.65rem;
 	height: 2.65rem;
 }
+
+a {
+	color: white;
+	font-weight: bold;
+	text-decoration: none;
+}
