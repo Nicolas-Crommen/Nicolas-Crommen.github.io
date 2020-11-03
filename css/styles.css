@@ -74,3 +74,15 @@ a {
 	color: white !important;
 	font-weight: bold;
 }
+
+a:active {
+	color: white !important;
+}
+
+a:visited {
+	color: white !important;
+}
+
+a:hover {
+	color: white !important;
+}
